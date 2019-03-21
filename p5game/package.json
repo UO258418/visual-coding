@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/UO258418/visual-coding#readme",
   "dependencies": {
-    "npm": "^6.9.0"
+    "npm": "^6.9.0",
+    "socket.io": "^2.2.0"
   }
 }
