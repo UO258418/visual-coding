@@ -1,0 +1,25 @@
+{
+  "name": "p5game",
+  "version": "1.0.0",
+  "description": "try to make a game with p5",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UO258418/visual-coding.git"
+  },
+  "keywords": [
+    "p5game"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UO258418/visual-coding/issues"
+  },
+  "homepage": "https://github.com/UO258418/visual-coding#readme",
+  "dependencies": {
+    "npm": "^6.9.0"
+  }
+}
